@@ -1,7 +1,7 @@
 /**
  * @filename: GlobalStyles.js
  * @description: 전역으로 적용될 기본 스타일시트.
- *               이 파일에서 정의한 class는 RecatJSX에서 className 속성으로 참조해야 한다..
+ *               이 파일에서 정의한 class는 RecatJSX에서 className 속성으로 참조해야 한다..,
  */
 
 /** 패키지 참조 */
